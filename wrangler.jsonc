@@ -6,6 +6,8 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "atticus-integrity-we-joxcdcjgtns-sr4pr6c4l",
 	"main": "worker/index.ts",
+  // existing fields...
+  "upload_source_maps": false,
 	"compatibility_date": "2025-04-24",
 	"assets": {
 		"not_found_handling": "single-page-application",
